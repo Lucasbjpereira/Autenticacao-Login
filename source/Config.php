@@ -8,7 +8,7 @@ define("SITE", [
     "desc" => "Aplicação de autenticação em MVC com PHP",
     "domain" => "localauth.com",
     "locale" => "pt-BR",
-    "root" => "http://localhost/codigoaberto"
+    "root" => "http://localhost/AuthLogin"
 ]);
 
 /** 
